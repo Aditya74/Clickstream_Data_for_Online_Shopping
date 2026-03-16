@@ -1,4 +1,5 @@
 Clickstream Online Shopping 
+
 Project Overview
 This project focuses on predicting the main product category a user visits on an online shopping website using clickstream session data.
 Clickstream data records user interactions such as pages visited, product attributes, and browsing behavior during a shopping session.
